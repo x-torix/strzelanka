@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\ZombieBehaviour.cs" />
     <Compile Include="Assets\playercontroler.cs" />
+    <Compile Include="Assets\LevelController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
