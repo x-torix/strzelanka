@@ -59,7 +59,7 @@
     <Compile Include="Assets\CameraController.cs" />
     <Compile Include="Assets\ZombieBehaviour.cs" />
     <Compile Include="Assets\LevelController.cs" />
-    <Compile Include="Assets\playercontroler.cs" />
+    <Compile Include="Assets\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
